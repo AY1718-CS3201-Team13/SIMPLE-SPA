@@ -1,3 +1,3 @@
 # SIMPLE-SPA
 
-Coding Standard: [Here](https://google.github.io/styleguide/cppguide.html)
+Coding Standard: [Here](https://gist.github.com/lefticus/10191322)
